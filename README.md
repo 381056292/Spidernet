@@ -27,7 +27,7 @@ Usage: python spidernet.py
     [6] Exit
     #> 0
     ----------Active Hosts-------------
-    Host: 192.168.1.254:22 (root/password)
+    Host: 58.67.140.44:22 (root/admin)
     Active: True
     -----------------------------------
     [0] Connect Hosts
@@ -40,7 +40,7 @@ Usage: python spidernet.py
     #> 3
     -----------------------------------
     ----------Hosts Details------------
-    [+] Host           : 192.168.1.254:22 (root/password)
+    [+] Host           : 58.67.140.44:22 (root/admin)
      - Active          : True
      - R - Hostname    : testhost00
      - R - IP Address  : 192.168.1.254
